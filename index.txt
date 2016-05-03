@@ -1,6 +1,0 @@
-Bob's Diner
-  Welcome to the best burgers and fries in London.
-  Our menu includes:
-  - Cheeseburgers
-  - Curly fries
-  - Milkshakes
